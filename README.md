@@ -87,6 +87,5 @@ The analysis was completed using Jupyter Notebook as part of a university data a
 
 **Zihad Ahmed Sarker**
 
-Bachelor of Information Technology
 
 Australian Catholic University
